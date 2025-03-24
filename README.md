@@ -1,1 +1,3 @@
-Wrote a script to calculate the time of a script/process.
+Calculates the time of a script/process.
+
+See script or example for details.
