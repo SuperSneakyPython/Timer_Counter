@@ -9,7 +9,6 @@ import math as math
 # timeoutput = option(timecalculation(starttime=starttime, endtime=endtime)) -> calculates the output for printing. Little complicated though.
 # Note to yourself, I'd like to simplify this program so the user only has to call timeoutput = timeoutput() but I'm not sure how!
 """
-
 def time_start() -> float:
     starttime = time.time()
     return starttime
