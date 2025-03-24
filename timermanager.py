@@ -1,5 +1,6 @@
 import time
 import math as math
+
 """
 # script useage is as follows:
 # starttime = time_start() -> get start time
@@ -9,7 +10,6 @@ import math as math
 # timeoutput = option(timecalculation(starttime=starttime, endtime=endtime)) -> calculates the output for printing. Little complicated though.
 # Note to yourself, I'd like to simplify this program so the user only has to call timeoutput = timeoutput() but I'm not sure how!
 """
-runtime = 0 #initalise variable
 
 def time_start() -> float:
     starttime = time.time()
